@@ -92,7 +92,8 @@ body {
   rotate(19.26deg);
 }
 
-/* Карты 
+/* Карты */
+
 .card-game {
   display: flex;
   justify-content: center;
@@ -159,4 +160,3 @@ body {
 .flipped {
   transform: rotateY(180deg);
 }
-*/
