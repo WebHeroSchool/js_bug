@@ -108,7 +108,7 @@ body {
   transition: transform 0.8s;
   transform-style: preserve-3d;
   cursor: pointer;
-  padding: 0 16.542vw 19.542vw 0;
+  padding: 0px 16.542vw 19.542vw 0;
   margin: 7% 0;
 }
 
@@ -145,7 +145,7 @@ body {
 }
 
 .six {
-  width: 57%;
+  width: 50%;
   margin: 0 auto;
 }
 
