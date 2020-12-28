@@ -96,4 +96,5 @@ function startGame() {
 };
 
 
+
 gameStartButton.addEventListener('click', startGame);
